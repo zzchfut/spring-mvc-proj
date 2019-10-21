@@ -1,0 +1,9 @@
+.settings/
+build/
+WebRoot/WEB-INF/classes/
+.classpath
+.project
+*.class
+WEB-INF/classes/
+target/
+bin/
